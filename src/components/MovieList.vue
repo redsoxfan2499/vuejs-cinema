@@ -10,6 +10,7 @@
         <div v-else-if="movies.length" class="no-results">
             No results
         </div>
+        
         <div v-else class="no-results">
             Loading... 
         </div>
